@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1530e36-4b39-473a-9534-3930853e0489": {
+      "ProjectGuid": "e1530e36-4b39-473a-9534-3930853e0489",
+      "DisplayName": "OutlookWebAddIn3Web",
+      "ColorIndex": 0
+    },
+    "ce7057bc-c816-4812-b61b-529de7e188dc": {
+      "ProjectGuid": "ce7057bc-c816-4812-b61b-529de7e188dc",
+      "DisplayName": "OutlookWebAddIn3",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

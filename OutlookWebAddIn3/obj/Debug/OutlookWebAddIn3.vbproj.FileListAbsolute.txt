@@ -1,0 +1,2 @@
+E:\outlook\OutlookWebAddIn3\OutlookWebAddIn3\obj\Debug\OutlookWebAddIn3.vbproj.CoreCompileInputs.cache
+E:\outlook\OutlookWebAddIn3\OutlookWebAddIn3\obj\Debug\OutlookWebAddIn3.vbproj.AssemblyReference.cache
